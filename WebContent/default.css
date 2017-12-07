@@ -1,0 +1,230 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-image: url('payroll.jpg');
+	background-attachment: fixed;
+	background-size:1500px 800px;
+	background-attachment: absolute;
+	
+}
+
+
+ #login{
+position:absolute;
+right:55px;
+top:20px;
+} 
+
+#logout{
+ padding-left:2px;
+ top:10px;
+ 
+}
+#language{
+	postion:absolute;
+	right:40px;
+	top:10px;
+}
+a:link{
+	color:yellow;
+}
+
+a:visited{
+	color:red;
+}
+
+a:hover{
+	background-color:orange;
+	
+}
+
+#whole{
+	/* margin-top:10px; */
+	width:1000px;
+	height:660px;
+	border:solid;
+	border-color:skyblue;
+	background-color:white;
+	background-attachment: fixed;
+	position:absolute;
+	top:40px;
+	right:100px;
+	
+	
+}
+
+#whole2{
+    /* margin-top:10px; */
+    width:1000px;
+    height:900px;
+    border:solid;
+    border-color:skyblue;
+    background-color:white;
+    background-attachment: fixed;
+    position:absolute;
+    top:40px;
+    right:100px;
+    
+    
+}
+
+
+
+
+
+#title{
+	width:980px;
+	height:120px;
+	border:solid;
+	position:absolute;
+	top:30px;
+	align:center;
+	border-color: skyblue;
+	border-style: ridge;
+	background-color: skyblue;
+	margin-top:10px; 
+	
+	
+}
+#ntt{
+	word-spacing: 20px;
+	color:yellow;
+	align:center;
+}
+
+#menu{
+	margin-top:30px;
+	position:absolute;
+	top:100px;
+	width:980px;
+	height:65px;
+	align:center;
+	border-color: skyblue;
+	 border-style: ridge;
+	background-color: skyblue;
+	word-spacing: 100px;
+	padding-left: 200px;
+}
+#content{
+	margin-top:20px;
+	position:absolute;
+	top:180px;
+	width:980px;
+	height:450px;
+	align:center;
+	border-color: skyblue;
+	border-style: ridge;
+	background-color: skyblue;
+	
+}
+
+#tasks{
+	text-indent:50px;
+	word-spacing:30px;
+}
+
+/* #contentdata{
+	position:absolute;
+	right:300px;
+	top:200px;
+	
+} */
+/* #A{
+	color:yellow;
+	border: solid;
+	font-size: 50px;
+	background-color:white;
+	align:center;
+}
+
+
+
+
+
+#table1{
+	width:800px;
+	height:60px;
+	border:dashed;
+	border-color:yellow;
+	background-color: white;
+}
+a:hover{
+	color:#CC0099;
+}
+
+
+#table2{
+	width:800px;
+	height:400px;
+	border:solid;
+	border-color:yellow;
+	background-color:white;
+}
+
+#table3{
+	width:800px;
+	height:400px;
+	border:solid;
+	border-color:yellow;
+	background-color: white;
+}
+
+#success{
+	text-indent: 40px;
+	text-align:center;
+	text-shadow: center;
+}
+
+ */
+ 
+ /* #title{
+ width:1000px;
+	height:60px;
+	border:solid;
+	border-color:blue;
+	background-color: white;
+	text-align: center;
+	text-indent: 50px;
+	word-spacing:10px; 
+ } */
+ 
+ /* #table1{
+ width:1000px;
+ height: 400px;
+border: solid;
+background-attachment: fixed;
+background-color: white;
+border-color: blue;
+ }
+ 
+ #menu{
+ width:1000px;
+ heigth:40px;
+ border:solid;
+ border-color:blue;
+ background-color: white;
+ text-align: center;
+ word-spacing:10px; 
+ }
+ 
+a:hover{
+ background-color: orange;
+ }
+ 
+ #tblsize2 { 
+
+	width: 100%; 
+	
+	border-collapse: collapse; 
+	
+	margin: 0 auto;
+	
+}
+
+#tblsize2 th{
+	background-color:orange;
+}
+
+#success{
+	font-size:25px;
+	word-spacing: 40px;
+} 	 */
